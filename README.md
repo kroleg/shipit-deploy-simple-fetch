@@ -1,4 +1,4 @@
-# shipit-deploy
+# shipit-deploy-simple-fetch
 
 Simple and fast deploy:fetch replacement for [shipit-deploy](https://github.com/shipitjs/shipit-deploy)
 
